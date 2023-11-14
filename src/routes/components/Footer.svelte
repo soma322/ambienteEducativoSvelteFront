@@ -1,7 +1,5 @@
-<footer class="sticky-footer bg-white">
-    <div class="container my-auto">
-        <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Luis Fernando Vazquez Cota - Ambiente Educactivo Fuzzy 2023</span>
-        </div>
+<footer class="footer mt-auto py-3 bg-light">
+    <div class="container">
+      <span class="text-muted">Place sticky footer content here.</span>
     </div>
-</footer>
+  </footer>
